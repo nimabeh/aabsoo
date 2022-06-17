@@ -1,4 +1,4 @@
-baseURL = "https://aabsoo.netlify.com/"
+baseURL = "https://www.aabsoo.com/"
 languageCode = "en-us"
 title = "aabsoo vertical farming"
 disableKinds = ["sitemap", "RSS"]
